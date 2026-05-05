@@ -28,4 +28,4 @@ spec:
     spec:
       containers:
       - name: nginx-green
-        image: mayurim334/blue-green:0.0.2
+        image: mayurim334/blue-green:0.0.12
