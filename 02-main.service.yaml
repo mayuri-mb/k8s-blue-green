@@ -4,7 +4,6 @@ metadata:
   name: nginx
 spec:
   type: LoadBalancer
-  clusterIP: None
   selector:
     project: roboshop
     tier: frontend
